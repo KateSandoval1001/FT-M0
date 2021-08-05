@@ -1,0 +1,31 @@
+h1{
+    color: rgb(195, 183, 207);
+}
+h3{
+    color: rgb(195, 183, 207);
+}
+h4{
+    color: rgb(195, 183, 207);
+}
+img{
+    width: 400px;
+    
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: rgb(146, 146, 146);
+    padding: 50px;
+    border: 3px solid blue;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    color: rgb(195, 183, 207);
+}
+html{
+    background-image: url(https://i.pinimg.com/originals/10/24/bd/1024bda12ba9fe9a4eb34e600fbeef8f.jpg);
+}
+a{
+    color: rgb(195, 183, 207);
+}
