@@ -19,7 +19,9 @@ img{
     background-color:transparent;
     padding: 50px;
     border: 3px solid rgb(119, 182, 211);
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block; 
 }
 #spanId{
     font-size: 40px;
@@ -31,4 +33,7 @@ html{
 }
 a{
     color: rgb(255, 255, 255);
+}
+.divClass{
+    text-align: center;
 }
