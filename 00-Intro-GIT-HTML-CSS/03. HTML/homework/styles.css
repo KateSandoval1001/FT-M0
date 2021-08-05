@@ -1,5 +1,6 @@
 h1{
-    color: rgb(195, 183, 207);
+    
+     color: rgb(195, 183, 207);
 }
 h3{
     color: rgb(195, 183, 207);
@@ -12,14 +13,16 @@ img{
     
 }
 #thirdDiv{
+    
     height: 600px;
     width: 500px;
     background-color: rgb(146, 146, 146);
     padding: 50px;
     border: 3px solid blue;
+    text-align: center;
 }
 #spanId{
-    font-size: 18px;
+    font-size: 40px;
     margin: 50px;
     color: rgb(195, 183, 207);
 }
